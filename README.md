@@ -1,3 +1,7 @@
+# Running
+
+1. Run split_data for preprocess data, then run GMM_list to obtain features. Finally run TADW_list to obtain representations and AUC results.
+
 # Citation
 Please cite the following paper for the paper usage:
 
