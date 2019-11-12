@@ -1,3 +1,7 @@
+# Note
+
+This code is the implementation of 'Geography-Aware Inductive Matrix Completion for Personalized Point of Interest Recommendation in Smart Cities'
+
 # Running
 
 1. Run split_data for preprocess data, then run GMM_list to obtain features. Finally run TADW_list to obtain representations and AUC results.
